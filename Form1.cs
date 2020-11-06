@@ -21,6 +21,7 @@ namespace Waste_Time
         {
 
         }
+        //cacaovnaog 
         private void WasteCPUCycles()
         {
             DateTime startTime = DateTime.Now;
